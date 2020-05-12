@@ -95,3 +95,8 @@ After building your TypeScript code, you will be able to run the CDK toolkits co
 
     $ cdk diff
     <shows diff against deployed stack>
+
+## Links
+
+- [Seamless branch deploys with Kubernetes](https://m.signalvnoise.com/seamless-branch-deploys-with-kubernetes/)
+- [End-to-End Multibranch Pipeline Project Creation](https://www.jenkins.io/doc/tutorials/build-a-multibranch-pipeline-project/)
